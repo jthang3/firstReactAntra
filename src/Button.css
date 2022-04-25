@@ -1,0 +1,8 @@
+.btn button {
+    width: 80px;
+    height: 30px;
+    margin: 30px;
+}
+.btn {
+    transform: translateX(-110px);
+}
